@@ -1,2 +1,3 @@
-# kn-workflow-image
+# SonataFlow Tools
+
 A container image for kn workflow CLI
